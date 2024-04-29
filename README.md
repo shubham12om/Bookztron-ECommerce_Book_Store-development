@@ -1,6 +1,5 @@
 # Full Stack E-Commerce Project using MERN
 
-Live Link - [Bookztron](https://bookztron-dev-branch.netlify.app/)
 
 ## Available Scripts
 
@@ -69,6 +68,6 @@ You may also see any lint errors in the console.
 
 ## You can report issues on this project using Github issue
 
-1. You can read more about this from [Github Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
 
-## Screenshots
+
+
